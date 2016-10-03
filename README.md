@@ -1,3 +1,7 @@
+This is Nils' submission. Original readme below. R scripts and png files are in the top level directory of this branch.
+
+---
+
 ## Introduction
 
 This assignment uses data from
